@@ -19,7 +19,7 @@
 		<spring-security.version>5.4.0-M1</spring-security.version>
 		<hibernate.version>5.4.13.Final</hibernate.version>
 
-		<start-class>io.jzheaux.springsecurity.resolutions.ResolutionsApplication</start-class>
+		<start-class>me.matt.springsecurity.resolutions.ResolutionsApplication</start-class>
 	</properties>
 
 	<dependencies>
